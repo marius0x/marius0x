@@ -1,5 +1,5 @@
 ## Hi there 👋
+### Dev | Indiepreneur | Building stuff
 
-Building My Tiny Digital Empire, One Project at a Time
-
-💡 https://www.tinyrebrand.com
+Currently working on:
+💡 [Tiny Rebrand](https://www.tinyrebrand.com?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro)
