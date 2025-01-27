@@ -1,8 +1,9 @@
-## Hi there 👋
-### Dev | Indiepreneur | Building stuff
+## Hi there 👋  
+### Developer | Indiepreneur | Building AI & SaaS Projects  
 
-Currently working on:
+### Currently Working On:  
+💡 [Faceless Founder](https://www.facelessfounder.com?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro) - Newsletter for AI, growth, and entrepreneurship.  
+💡 [Tiny Rebrand](https://www.tinyrebrand.com?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro) - Simple, fast rebranding tool.  
+💡 [Book Junkie](https://www.bookjunkie.co?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro) - Discover your next favorite book.  
 
-💡 [Faceless Founder](https://www.facelessfounder.com?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro)
-💡 [Tiny Rebrand](https://www.tinyrebrand.com?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro)
-💡 [Book Junkie](https://www.bookjunkie.co?utm_source=github.com&utm_medium=about_me&utm_campaign=vividbro)
+Feel free to connect or explore more of my work!
