@@ -1,5 +1,5 @@
 ## Hi there 👋  
-### Developer | Indiepreneur | Building Stuff  
+### Dev | Founder | Building Stuff  
 
 ### Currently Working On:  
 💡 [Faceless Founder](https://facelessfounder.com?utm_source=github.com&utm_medium=about_me&utm_campaign=marius0x) - Newsletter for AI, growth, and entrepreneurship.  
